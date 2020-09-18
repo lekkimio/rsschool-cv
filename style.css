@@ -1,0 +1,25 @@
+body {
+    background: #f1f3f8;
+    color: #30475e;
+    max-width: 1024px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    
+}
+ p {
+            padding-left: 40px;
+        }       
+h1 {
+    color: #393b44;
+    font-size: 35px;
+}
+h2 {
+    color: #132743;
+}
+ul{
+    color:#30475e;
+    list-style-type:none;
+        }
+a {
+    color: #006a71;
+}
